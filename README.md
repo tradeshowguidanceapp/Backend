@@ -1,3 +1,7 @@
+# Backend
+
+This is the backend server for the project. It contains the code used to communicate between the database and client applications.
+
 # Installation
 
 Install the .NET SDK (6.0.0+):
